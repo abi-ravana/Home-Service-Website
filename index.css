@@ -48,6 +48,7 @@ h2 {
     height: 150px;
     border-radius: 5px;
     cursor: pointer;
+    border-radius: 4px;
     transition: background-color 0.3s;
     font-size: large;
    
@@ -77,14 +78,88 @@ img {
 
 footer {
     background-color: #282c34;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px; 
+}
+
+
+img[width="400"] {
+    border-radius: 50%; 
+    border: 5px solid #4F9CF9;
+    box-shadow: 0 0 15px rgba(0, 123, 255, 0.4);
+    margin: 40px auto;
+}
+
+.paragraph {
+    /* Box Styling */
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 30px;
+    background-color: #ffffff; /* Pure white background */
+    border-right: 5px solid #007BFF;
+    border-left: 5px solid #007BFF;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08); /* Soft, noticeable shadow */
+
+    /* Text Styling */
+    text-align: center;
+}
+
+.paragraph p {
+    font-size: 1.3rem; /* Slightly larger font */
+    line-height: 1.7;
+    color: #444; /* Soft black text */
+}
+
+/* --- CLEAN MINIMALIST ABOUT --- */
+.about {
+    /* Box Styling */
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 40px;
+    background-color: #f9f9f9; /* Very light grey background */
+    border-radius: 12px;
+    border-top: 5px solid #007BFF; /* A clean blue border on top */
+    
+    /* Text Styling */
+    color: #333;
+    text-align: center;
+}
+
+.about h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #007BFF; /* Match the accent color */
+    text-transform: uppercase;
+}
+
+.about p {
+    font-size: 1.15rem;
+    line-height: 1.65;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
     
 
-
-
-
-
-
-
-
-    
 
