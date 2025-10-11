@@ -1,9 +1,11 @@
-nav{
-    background-color: black;
+
+header {
+    background-color:#282c34;
     color: white;
-    margin: 0;
-    padding: 15px;
-}
+    padding: 20px 0;
+    text-align: center;
+}  
+    
 
 
 
@@ -71,3 +73,18 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+
+footer {
+    background-color: #282c34;
+    
+
+
+
+
+
+
+
+
+    
+
