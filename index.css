@@ -81,7 +81,7 @@ footer {
     text-align: center;
     padding: 10px;
     bottom: 0;
-    width: 100%;
+    
 }
 
 img {
@@ -130,7 +130,7 @@ img[width="400"] {
     background-color: #f9f9f9; 
     border-radius: 12px;
     border-top: 5px solid #007BFF; 
-    
+    border-bottom: 5px solid #007BFF; 
    
     color: #333;
     text-align: center;
@@ -160,6 +160,7 @@ img[width="400"] {
 
 
     
+
 
 
 
