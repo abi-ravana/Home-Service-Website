@@ -103,7 +103,7 @@ img[width="400"] {
 
 .paragraph {
     /* Box Styling */
-    max-width: 900px;
+    max-width: 1000px;
     margin: 30px auto;
     padding: 30px;
     background-color: #ffffff; /* Pure white background */
@@ -147,7 +147,7 @@ img[width="400"] {
 .about p {
     font-size: 1.15rem;
     line-height: 1.65;
-    max-width: 700px;
+    max-width: 850px;
     margin: 0 auto;
 }
 
@@ -161,5 +161,6 @@ img[width="400"] {
 
 
     
+
 
 
